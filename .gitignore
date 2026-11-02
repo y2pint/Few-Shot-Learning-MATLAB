@@ -1,0 +1,10 @@
+# MATLAB autosaves and temporary files
+*.asv
+*.m~
+
+# Large local datasets (keep class-labeled image folders on your machine)
+/base/
+/novel/
+
+# Saved MATLAB networks (often large)
+*.mat
